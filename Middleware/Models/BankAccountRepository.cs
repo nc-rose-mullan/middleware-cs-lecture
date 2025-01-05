@@ -1,5 +1,5 @@
 ﻿using Microsoft.EntityFrameworkCore.SqlServer.Storage.Internal;
-using Middleware.Middleware;
+using Middleware;
 
 namespace Middleware.Models
 {
