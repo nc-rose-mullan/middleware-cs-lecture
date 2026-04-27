@@ -52,7 +52,7 @@ namespace Middleware.Migrations
                             Id = 1,
                             AccountNumber = 10101010,
                             Balance = -1000.0,
-                            Name = "Rich",
+                            Name = "Rose",
                             SortCode = 101010
                         },
                         new
@@ -60,7 +60,7 @@ namespace Middleware.Migrations
                             Id = 2,
                             AccountNumber = 64872091,
                             Balance = 8000000.0,
-                            Name = "Katherine",
+                            Name = "Chris",
                             SortCode = 100002
                         },
                         new
@@ -68,7 +68,7 @@ namespace Middleware.Migrations
                             Id = 3,
                             AccountNumber = 44444444,
                             Balance = 500.0,
-                            Name = "Poppy",
+                            Name = "Lewis",
                             SortCode = 130002
                         },
                         new
@@ -76,7 +76,7 @@ namespace Middleware.Migrations
                             Id = 4,
                             AccountNumber = 11112222,
                             Balance = 100.0,
-                            Name = "Haz",
+                            Name = "Jim",
                             SortCode = 404040
                         },
                         new
@@ -84,7 +84,7 @@ namespace Middleware.Migrations
                             Id = 5,
                             AccountNumber = 33334444,
                             Balance = 50000.0,
-                            Name = "Neil",
+                            Name = "David",
                             SortCode = 989898
                         },
                         new
@@ -92,7 +92,7 @@ namespace Middleware.Migrations
                             Id = 6,
                             AccountNumber = 23232323,
                             Balance = 9000.0,
-                            Name = "Pippa",
+                            Name = "Tufty",
                             SortCode = 134761
                         },
                         new
@@ -100,7 +100,7 @@ namespace Middleware.Migrations
                             Id = 7,
                             AccountNumber = 19876543,
                             Balance = 50000.0,
-                            Name = "Alice",
+                            Name = "Ginger Cheeks",
                             SortCode = 225588
                         });
                 });
